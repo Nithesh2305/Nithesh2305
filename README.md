@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **open-source projects in AI/ML or creative frontend apps**  
 - 💬 Ask me about **Frontend Development (React, JavaScript), Python, or ML basics**  
 - 📫 How to reach me: **nitheshragam@gmail.com**  
-- 📄 **Resume:** [View Here]([https://drive.google.com/file/d/1DcS2_BIdOEu89M1uf9CtnXWeD9kRc-OH/view?usp=sharing](https://drive.google.com/file/d/1i6GNXRTvWh8znP3SGjDYXvAtUkxQgVzo/view?usp=sharing))  
+- 📄 **Resume:** [View Here]([https://drive.google.com/file/d/1i6GNXRTvWh8znP3SGjDYXvAtUkxQgVzo/view?usp=sharing])  
 - ⚡ Fun fact: **I love turning complex algorithms into user-friendly interfaces!**  
 
 ---
