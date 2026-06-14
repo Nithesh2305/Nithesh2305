@@ -182,14 +182,4 @@ $ cat /etc/nithesh/status.log
 
 ---
 
-<details>
-<summary>📋 Quick Setup Checklist</summary>
 
-- [ ] Create a repo named exactly `Nithesh2305` on GitHub (Settings → must be Public)
-- [ ] Add this `README.md` to it
-- [ ] Update your LinkedIn URL to your actual profile link
-- [ ] Update email address if different
-- [ ] Adjust any tech badges that don't match your real stack
-- [ ] That's it — no extra setup needed!
-
-</details>
