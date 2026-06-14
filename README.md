@@ -1,54 +1,195 @@
-<h1 align="center">Hi 👋, I'm R.Nithesh</h1>
-<h3 align="center">From Algorithms to UI: Bridging ML & Frontend Development</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Movie Recommender System](https://github.com/Nithesh2305/movie-recommender) (ML + React)  
-- 🌱 I’m currently learning **React, Machine Learning, OpenCV, and Data Visualization**  
-- 👯 I’m looking to collaborate on **open-source projects in AI/ML or creative frontend apps**  
-- 💬 Ask me about **Frontend Development (React, JavaScript), Python, or ML basics**  
-- 📫 How to reach me: **nitheshragam@gmail.com**  
-- 📄 **Resume:** [View Here]([https://drive.google.com/file/d/1i6GNXRTvWh8znP3SGjDYXvAtUkxQgVzo/view?usp=sharing])  
-- ⚡ Fun fact: **I love turning complex algorithms into user-friendly interfaces!**  
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=Hey+there%2C+I'm+Nithesh+%F0%9F%91%8B;AI+%2F+ML+Engineer;Building+the+Future+with+Intelligence;Turning+Data+into+Decisions" alt="Typing SVG" />
 
----
+<!-- Neon Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:003300&height=120&section=header&text=&animation=fadeIn" />
 
-### **🚀 Skills & Tools**  
-
-#### **Frontend Development**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-
-#### **Machine Learning & Data Science**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)  
-
-#### **Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-
----
-
-### **📊 GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithesh2305&show_icons=true&locale=en&layout=compact" alt="nithesh2305" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=nithesh2305&show_icons=true&locale=en" alt="nithesh2305" />  
-  <img src="https://streak-stats.demolab.com?user=nithesh2305&theme=dark" alt="GitHub Streak" />
+<!-- Social Badges -->
+<p>
+  <a href="https://github.com/Nithesh2305">
+    <img src="https://img.shields.io/github/followers/Nithesh2305?label=Followers&style=for-the-badge&logo=github&color=00FF41&labelColor=0D1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/nithesh2305">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:nithesh2305@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nithesh2305&label=Profile+Views&color=00FF41&style=for-the-badge&labelColor=0D1117" />
 </p>
 
+</div>
+
 ---
 
-### **🤝 Connect With Me**  
-<p align="left">
-  <a href="https://www.linkedin.com/in/nithesh-ragam-10a3502a4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<!-- About Me Terminal Block -->
+```python
+# ╔══════════════════════════════════════════════════════╗
+# ║              NITHESH // AI-ML ENGINEER               ║
+# ╚══════════════════════════════════════════════════════╝
 
-  <a href="mailto:nitheshragam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+class Nithesh:
+    def __init__(self):
+        self.name        = "Nithesh"
+        self.username    = "Nithesh2305"
+        self.role        = "AI / ML Engineer"
+        self.location    = "India 🇮🇳"
+        self.languages   = ["Python", "SQL", "Bash", "JavaScript"]
+        self.focus       = ["LLMs", "Deep Learning", "MLOps", "Computer Vision"]
+        self.mantra      = "Models that generalize. Code that scales. Impact that lasts."
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something intelligent. 🤖")
+
+me = Nithesh()
+me.say_hi()
+```
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+<!-- AI / ML -->
+**🧠 AI & Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00FF41)
+![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=00FF41)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF41)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=00FF41)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00FF41)
+![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00FF41)
+
+**📊 Data & MLOps**
+
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00FF41)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00FF41)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00FF41)
+![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+
+**🌐 Web Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00FF41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+
+</div>
+
+---
+
+<!-- GitHub Stats Section -->
+<div align="center">
+
+## 📡 GitHub Intelligence Report
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nithesh2305&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Nithesh2305&theme=chartreuse-dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41&sideLabels=00FF41&dates=555555" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithesh2305&layout=donut&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41&langs_count=6" />
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nithesh2305&theme=chartreuse_dark" />
+
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+<div align="center">
+
+## 🏆 Achievement Unlocked
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nithesh2305&theme=matrix&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+## 🌐 Contribution Matrix
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nithesh2305&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=003300&border_color=00FF41&hide_border=false" />
+
+</div>
+
+---
+
+<!-- What I'm Working On -->
+## 🚀 Current Mission
+
+```bash
+$ cat /etc/nithesh/status.log
+
+[ACTIVE]   🤖 Building LLM-powered applications with RAG & Agents
+[ACTIVE]   🧠 Exploring Multimodal AI & Vision-Language Models
+[ACTIVE]   🔬 Fine-tuning open-source LLMs for domain-specific tasks
+[LEARNING] ⚙️  MLOps pipelines — from experiment to production
+[OPEN]     🤝 Collaborating on AI research & open-source ML projects
+```
+
+---
+
+<!-- Random Dev Quote -->
+<div align="center">
+
+## 💬 Today's Transmission
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+## 📡 Let's Connect
+
+<a href="https://www.linkedin.com/in/nithesh-ragam-10a3502a4">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+</a>
+<a href="mailto:nitheshragam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+</a>
+<a href="https://github.com/Nithesh2305">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=40&lines=Open+to+AI+%2F+ML+roles+%26+collaborations...;Let's+build+intelligent+systems+together+🤖" />
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00FF41&height=100&section=footer" />
+
+---
+
+<details>
+<summary>📋 Quick Setup Checklist</summary>
+
+- [ ] Create a repo named exactly `Nithesh2305` on GitHub (Settings → must be Public)
+- [ ] Add this `README.md` to it
+- [ ] Update your LinkedIn URL to your actual profile link
+- [ ] Update email address if different
+- [ ] Adjust any tech badges that don't match your real stack
+- [ ] That's it — no extra setup needed!
+
+</details>
