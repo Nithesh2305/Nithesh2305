@@ -36,7 +36,7 @@ class Nithesh:
         self.username    = "Nithesh2305"
         self.role        = "AI / ML Engineer"
         self.location    = "India 🇮🇳"
-        self.languages   = ["Python", "SQL", "Bash", "JavaScript"]
+        self.languages   = ["Python", "SQL", "C++", "JavaScript"]
         self.focus       = ["LLMs", "Deep Learning", "MLOps", "Computer Vision"]
         self.mantra      = "Models that generalize. Code that scales. Impact that lasts."
 
