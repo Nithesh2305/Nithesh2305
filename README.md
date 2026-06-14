@@ -11,10 +11,10 @@
   <a href="https://github.com/Nithesh2305">
     <img src="https://img.shields.io/github/followers/Nithesh2305?label=Followers&style=for-the-badge&logo=github&color=00FF41&labelColor=0D1117" />
   </a>
-  <a href="https://www.linkedin.com/in/nithesh2305">
+  <a href="https://www.linkedin.com/in/nithesh-ragam-10a3502a4">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="mailto:nithesh2305@gmail.com">
+  <a href="mailto:nitheshragam@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Me-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Nithesh2305&label=Profile+Views&color=00FF41&style=for-the-badge&labelColor=0D1117" />
